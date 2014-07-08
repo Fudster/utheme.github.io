@@ -204,23 +204,10 @@ form .errorlist {
 
 form input[type=submit],
 .button-link {
-    border: 1px solid;
-    border-radius: 4px;
-    font-size: 20px;
-    font-weight: normal;
-    border-color: #7c551a;
+    border: 1px solid #000000;
+    font-size: 14px;
     background: #9c7815;
-    color: #fff;
-}
-
-form input[type=submit]:hover,
-.button-link:hover {
-    background: #c99a1a;
-}
-
-form input[type=submit]:active,
-.button-link:active {
-    background: #ba8500;
+    color: #ffffff;
 }
 
 div.selector span,
