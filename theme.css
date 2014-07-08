@@ -372,12 +372,13 @@ td.news-province-modification { background-image: url(./images/kingdom_news/prov
     border-top: 1px solid #ff0000;
     margin-bottom: 10px;
     text-align: left;
+    font-size: 12px;
 }
 
 .game-content form table thead th {
     height: 36px;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
     vertical-align: bottom;
 }
