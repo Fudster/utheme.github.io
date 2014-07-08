@@ -7,6 +7,8 @@ body {
     background-color: #ffffff;
 }
 
+select,input { color: #000000; font-size: 14px; font-weight: normal; text-align: left; border: 1px solid #000000; background-color: #ffffff; }
+
 a { color: #0000ff; text-decoration: none; }
 
 a.highlighted { color: #E68910; }
