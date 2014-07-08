@@ -15,15 +15,7 @@ http://pixelmatrixdesign.com/uniform/themer.html
 
 /* Global Declaration */
 
-div.selector,
-div.selector span,
-div.checker span,
-div.radio span,
-div.uploader,
-div.uploader span.action {
-  background-image: url(./images/sprite.png);
-  background-repeat: no-repeat;
-}
+
 
 .selector,
 .radio,
