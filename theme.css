@@ -13,7 +13,11 @@ a.highlighted { color: #E68910; }
 
 #header-logo { width: 1px; height: 1px; }
 
-#header-navigation { color: #000000; border: 1px solid #000000; background-color: #ffffff; }
+#header-navigation { color: #000000; border: 1px solid #000000; background-color: #ffffff;
+height: 30px;
+line-height: 30px;
+
+}
 
 .navigation { color: #000000; font-size: 14px; font-weight: normal; text-align: left; border: 1px solid #000000; background-color: #ffffff; }
 .navigation a { color: #000000; }
