@@ -348,14 +348,15 @@ td.news-province-modification { background-image: url(./images/kingdom_news/prov
 
 
 
-.game-header { height: 30px; background: #dddddd; }
+.game-header { height: 30px; }
 .game-header h1 {
     height: 16px;
     margin: 0px 1px;
-    padding: 6px 4px 6px 4px;
+    padding: 6px 14px 6px 14px;
     font-size: 14px;
     font-weight: normal;
     border: 1px solid #000000;
+    background: #dddddd;
 }
 
 .game-header a h1 {
