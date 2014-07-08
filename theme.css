@@ -161,27 +161,13 @@ a.highlighted { color: #E68910; }
 
 
 
-#resource-bar {
-    border: 1px solid #000000;
-    font-size: 12px;
-}
-
+#resource-bar { border: 1px solid #000000; }
 #resource-bar thead { background: #dddddd; }
-
 #resource-bar thead th,
 #resource-bar tbody th,
-#resource-bar tbody td{
-    width: 98px;
-    padding: 3px 6px 3px 6px;
-}
-
-#resource-bar .positive {
-    color: #aaffaa;
-}
-
-#resource-bar .negative {
-    color: #ffaaaa;
-}
+#resource-bar tbody td { font-size: 12px; width: 98px; padding: 3px 6px 3px 6px; }
+#resource-bar .positive { color: #aaffaa; }
+#resource-bar .negative { color: #ffaaaa; }
 
 
 
