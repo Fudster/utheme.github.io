@@ -401,7 +401,7 @@ td.news-province-modification { background-image: url(./images/kingdom_news/prov
 }
 
 .game-content form tbody tr:nth-child(even) {
-    background: #444444;
+    background: #dddddd;
 }
 
 .game-content form.change-kingdom #royal-commands {
