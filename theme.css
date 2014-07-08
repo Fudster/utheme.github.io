@@ -204,7 +204,7 @@ form .errorlist {
 form input[type=submit],
 .button-link {
     border: 1px solid #000000;
-    font-size: 14px;
+    font-size: 12px;
     background: #9c7815;
     color: #ffffff;
 }
@@ -214,14 +214,14 @@ div.uploader span.filename,
 div.uploader span.action
 {
     padding-left: 5px;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: normal;
     text-align: left;
 }
 div.uploader span.filename,
 div.uploader span.action
 {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 
