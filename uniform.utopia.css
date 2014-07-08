@@ -154,58 +154,6 @@ div.radio.disabled.active span.checked {
 
 /* Uploader */
 
-div.uploader {
-  background-position: 0px -438px;
-  height: 38px;
-}
-
-div.uploader span.action {
-  background-position: right -590px;
-  height: 38px;
-  line-height: 38px;
-}
-
-div.uploader span.filename {
-  height: 38px;
-  /* change this line to adjust positioning of filename area */
-  margin: 2px 0px 2px 2px;
-  line-height: 38px;
-}
-
-div.uploader.focus,
-div.uploader.hover,
-div.uploader:hover {
-  background-position: 0px -514px;
-}
-
-div.uploader.focus span.action,
-div.uploader.hover span.action,
-div.uploader:hover span.action {
-  background-position: right -628px;
-}
-
-div.uploader.active span.action,
-div.uploader:active span.action {
-  background-position: right -666px;
-}
-
-div.uploader.focus.active span.action,
-div.uploader:focus.active span.action,
-div.uploader.focus:active span.action,
-div.uploader:focus:active span.action {
-  background-position: right -704px;
-}
-
-div.uploader.disabled {
-  background-position: 0px -476px;
-}
-
-div.uploader.disabled span.action {
-  background-position: right -552px;
-}
-
-/* PRESENTATION */
-
 /* Select */
 div.selector {
   margin-bottom: 8px;
