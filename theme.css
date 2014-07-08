@@ -78,18 +78,18 @@ a.highlighted { color: #E68910; }
     color: #ffffff;
 }
 
-.lobby-panel table th { font-size: 20px; }
+.lobby-panel table th { font-size: 14px; }
 .lobby-panel table td { font-size: 14px; }
-.lobby-panel h2       { font-size: 24px; }
+.lobby-panel h2       { font-size: 14px; }
 .age-changes h3,
-.campaigns h3         { font-size: 20px; }
+.campaigns h3         { font-size: 14px; }
 
 .recruitment-campaigns h1,
 .race-changes h1,
-.trait-changes h1 { font-size: 40px; }
+.trait-changes h1 { font-size: 20px; }
 
 .race-changes h2,
-.trait-changes h2 { font-size: 30px; }
+.trait-changes h2 { font-size: 20px; }
 
 .good { color: #90ee90; }
 .bad  { color: #EC7566; }
