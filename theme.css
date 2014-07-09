@@ -217,21 +217,6 @@ form input[type=submit],
     color: #ffffff;
 }
 
-div.selector span,
-div.uploader span.filename,
-div.uploader span.action
-{
-    padding-left: 5px;
-    font-size: 14px;
-    font-weight: normal;
-    text-align: left;
-}
-div.uploader span.filename,
-div.uploader span.action
-{
-    font-size: 14px;
-}
-
 
 
 
