@@ -642,3 +642,18 @@ div.button span {
   border-color: #000000;
   width: auto;
 }
+
+
+
+div.selector select {
+  font-weight: normal;
+  font-size: 14px;
+  color: #000000;
+  text-align: left;
+  background: #ffffff;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  border: 1px solid #000000;
+  width: auto;
+}
+
+
