@@ -618,16 +618,14 @@ td#inline-hostility-meter {
 
 
 
-
-
-
-div.selector span {
-
-  display: none;
-}
-
-
-div.selector {
+div.selector,
+div.selector span,
+div.checker span,
+div.radio span,
+div.uploader,
+div.uploader span.action,
+div.button,
+div.button span {
   background: #ffffff;
   font-weight: normal;
   font-size: 14px;
@@ -635,18 +633,4 @@ div.selector {
   text-align: left;
   border-color: #000000;
   width: auto;
-  opacity: 100;
-}
-
-
-div.selector select {
-
-  background: #ffffff;
-  font-weight: normal;
-  font-size: 14px;
-  color: #000000;
-  text-align: left;
-  border-color: #000000;
-  width: auto;
-  opacity: 100;
 }
