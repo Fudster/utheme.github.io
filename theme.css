@@ -92,7 +92,7 @@ a.highlighted { color: #E68910; }
 .trait-changes h2 { font-size: 20px; }
 
 .good { color: #008800; }
-.bad { color: #EC7566; }
+.bad { color: #ff0000; }
 
 .message {
     font-weight: bold;
