@@ -611,6 +611,10 @@ form textarea,
 form input[type=text],
 form input[type=password] {
 
+    padding-left: 3px;
+    font-size: 14px;
+    text-align: left;
+    color: #000000;
 }
 
 form input[type=text],
