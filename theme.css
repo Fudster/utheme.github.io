@@ -626,20 +626,19 @@ td#inline-hostility-meter {
 
 
 
-
-selector,
-checker,
-radio,
-uploader,
-button,
-input {
-  background: transparent;
+div.selector,
+div.selector span,
+div.checker span,
+div.radio span,
+div.uploader,
+div.uploader span.action,
+div.button,
+div.button span {
+  background: #ffffff;
   font-weight: normal;
   font-size: 14px;
   color: #000000;
   text-align: left;
-  border: 1px solid #000000;
+  border-color: #000000;
   width: auto;
 }
-
-
