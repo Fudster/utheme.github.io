@@ -639,3 +639,9 @@ div.selector {
 }
 
 
+div.selector select {
+
+  opacity: 100;
+}
+
+
