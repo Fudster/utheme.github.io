@@ -638,4 +638,5 @@ div.button span {
   background-image: url('');
   background-repeat: no-repeat;
   -webkit-font-smoothing: antialiased;
+  background: #ff0000;
 }
