@@ -623,7 +623,11 @@ td#inline-hostility-meter {
 
 
 
-
+div.selector span,
+div.checker span,
+div.radio span {
+  display: none;
+}
 
 
 div.selector,
@@ -655,9 +659,5 @@ select {
   border: 1px solid #000000;
   width: auto;
   opacity: 100;
-}
-
-div.selector.focus:active span {
-      opacity: 0;
 }
 
