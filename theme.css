@@ -621,23 +621,13 @@ td#inline-hostility-meter {
 
 
 
+div.selector span {
 
-
-div.selector span,
-div.checker span,
-div.radio span {
-  opacity: 100;
+  display: none;
 }
 
 
-div.selector,
-div.selector span,
-div.checker span,
-div.radio span,
-div.uploader,
-div.uploader span.action,
-div.button,
-div.button span {
+div.selector {
   background: #ffffff;
   font-weight: normal;
   font-size: 14px;
