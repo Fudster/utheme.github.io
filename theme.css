@@ -657,7 +657,7 @@ select {
   opacity: 100;
 }
 
-.selector focus span {
+div.selector.focus:active span {
       opacity: 0;
 }
 
