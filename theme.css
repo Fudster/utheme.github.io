@@ -6,15 +6,6 @@ body {
     background-color: #ffffff;
 }
 
-.selector,
-.radio,
-.checker,
-.uploader,
-.selector *,
-.radio *,
-.checker *,
-.uploader * { color: #000000; font-size: 14px; font-weight: normal; text-align: left; background-image:; }
-
 a { color: #0000ff; text-decoration: none; }
 
 a.highlighted { color: #E68910; }
@@ -633,3 +624,13 @@ div.button span {
   border-color: #000000;
   width: auto;
 }
+
+.selector,
+.radio,
+.checker,
+.uploader,
+.selector *,
+.radio *,
+.checker *,
+.uploader * { color: #000000; font-size: 14px; font-weight: normal; text-align: left; }
+
