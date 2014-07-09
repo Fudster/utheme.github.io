@@ -196,12 +196,12 @@ td.news-province-modification { background-image: url(./images/kingdom_news/prov
 /* KINGDOM DETAILS */
 .unused-slot { color: #B0B0B0; }
 .protected,
-.intel-fresh { color: #44dd88; }
+.intel-fresh { color: #228866; }
 .monarch,
 .at-war,
-.intel-rotten { color: #F28585; }
+.intel-rotten { color: #880000; }
 .chamberlain,
-.intel-stale { color: #FFC583; }
+.intel-stale { color: #ddbb88; }
 .you { font-weight: bold; }
 .slot-number { font-size: 0.8em; color: #B0B0B0; }
 
