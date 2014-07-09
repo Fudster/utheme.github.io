@@ -167,8 +167,8 @@ a.highlighted { color: #E68910; }
 #resource-bar thead td,
 #resource-bar tbody th,
 #resource-bar tbody td { font-size: 12px; width: 98px; }
-#resource-bar .positive { color: #aaffaa; }
-#resource-bar .negative { color: #ffaaaa; }
+#resource-bar .positive { color: #008800; }
+#resource-bar .negative { color: #ff0000; }
 
 
 
