@@ -623,9 +623,9 @@ td#inline-hostility-meter {
 
 
 
-div.selector span,
-div.checker span,
-div.radio span {
+.selector span,
+.checker span,
+.radio span {
   display: none;
 }
 
