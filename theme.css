@@ -174,42 +174,6 @@ a.highlighted { color: #E68910; }
 
 
 
-form ul.errorlist {
-    color: #e26f80;
-}
-
-input[type=text],
-form textarea,
-form input[type=text],
-form input[type=password] {
-    border: 1px solid #000000;
-    padding-left: 3px;
-    font-size: 14px;
-    text-align: left;
-    color: #000000;
-    background: #ffffff;
-}
-
-form input[type=text],
-form input[type=password] {
-    height: 14px;
-    font-size: 14px;
-}
-
-form .errorlist {
-    font-size: 12px;
-}
-
-form input[type=submit],
-.button-link {
-    border: 1px solid #000000;
-    font-size: 12px;
-    background: #9c7815;
-    color: #ffffff;
-}
-
-
-
 
 
 
@@ -633,4 +597,37 @@ div.button span {
 .radio *,
 .checker *,
 .uploader * { color: #000000; font-size: 14px; font-weight: normal; text-align: left; }
+
+
+
+
+
+form ul.errorlist {
+    color: #e26f80;
+}
+
+input[type=text],
+form textarea,
+form input[type=text],
+form input[type=password] {
+
+}
+
+form input[type=text],
+form input[type=password] {
+    height: 14px;
+    font-size: 14px;
+}
+
+form .errorlist {
+    font-size: 12px;
+}
+
+form input[type=submit],
+.button-link {
+    border: 1px solid #000000;
+    font-size: 12px;
+    background: #9c7815;
+    color: #ffffff;
+}
 
