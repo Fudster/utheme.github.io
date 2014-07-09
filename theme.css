@@ -635,8 +635,8 @@ div.uploader,
 div.uploader span.action,
 div.button,
 div.button span {
+  background: transparent;
   
-  background: #ffffff;
   font-weight: normal;
   font-size: 14px;
   color: #000000;
