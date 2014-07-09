@@ -636,7 +636,6 @@ div.uploader span.action,
 div.button,
 div.button span {
   background: transparent;
-  
   font-weight: normal;
   font-size: 14px;
   color: #000000;
@@ -644,3 +643,22 @@ div.button span {
   border-color: #000000;
   width: auto;
 }
+
+
+
+input.text,
+input.email,
+input.password,
+textarea.uniform {
+  background: transparent;
+  font-weight: normal;
+  font-size: 14px;
+  color: #000000;
+  text-align: left;
+  border-color: #000000;
+  width: auto;
+}
+
+
+
+
