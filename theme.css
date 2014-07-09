@@ -641,7 +641,12 @@ div.selector {
 
 div.selector select {
 
+  background: #ffffff;
+  font-weight: normal;
+  font-size: 14px;
+  color: #000000;
+  text-align: left;
+  border-color: #000000;
+  width: auto;
   opacity: 100;
 }
-
-
