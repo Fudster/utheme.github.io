@@ -645,6 +645,7 @@ div.button span {
   text-align: left;
   border-color: #000000;
   width: auto;
+  display: none;
 }
 
 
