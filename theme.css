@@ -630,7 +630,7 @@ form input[type=submit],
 
 
 
-.game-content table.three-column-stats th {
+.game-content th {
     width: 20%;
     text-align: center;
 }
