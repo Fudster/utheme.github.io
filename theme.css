@@ -629,12 +629,7 @@ form input[type=submit],
 }
 
 
-
-.three-column-stats th {
+.game-content table.three-column-stats th {
     width: 20%;
-    text-align: center;
-}
-
-.math-table thead th {
     text-align: center;
 }
