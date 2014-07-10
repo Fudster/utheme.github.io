@@ -635,9 +635,9 @@ form input[type=submit],
 }
 
 .game-content table.mail-view tr td:nth-child(2n+1) {
-    background: #eeeeee;
+    background: #dddddd;
 }
 
-.game-content table.mail-view tr th:nth-child(2n+1) {
+.game-content table.mail-view tr th:nth-child(2n) {
     background: #dddddd;
 }
