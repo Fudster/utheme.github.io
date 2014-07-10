@@ -430,10 +430,10 @@ td.news-province-modification { background-image: url(./images/kingdom_news/prov
     font-size: 14px;
 }
 
+
 div.wysiwyg {
     border: 1px solid #999;
     padding: 5px;
-    background: rgb(86, 83, 74);
 }
 
 div.wysiwyg ul.toolbar li {
