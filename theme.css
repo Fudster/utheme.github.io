@@ -307,7 +307,7 @@ td.news-province-modification { background-image: url(./images/kingdom_news/prov
 
 .game-content { border: 0px solid #000000; }
 .game-content h2 { font-size: 12px; font-weight: normal; line-height: 20px; }
-.game-content thead th { font-size: 12px; font-weight: normal; text-align: center; }
+.game-content thead th { font-size: 12px; font-weight: normal; }
 .game-content tbody th { font-size: 12px; border-left: 1px solid #000000; }
 .game-content tbody th:first-child { border-left: none; }
 .game-content tbody td { font-size: 12px; padding-right: 20px; }
@@ -626,4 +626,11 @@ form input[type=submit],
     font-size: 12px;
     background: #ddbb88;
     color: #000000;
+}
+
+
+
+.game-content table.three-column-stats th {
+    width: 20%;
+    text-align: center;
 }
