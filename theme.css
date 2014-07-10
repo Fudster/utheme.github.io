@@ -434,6 +434,7 @@ td.news-province-modification { background-image: url(./images/kingdom_news/prov
 div.wysiwyg {
     border: 1px solid #999;
     padding: 5px;
+    background: #dddddd;
 }
 
 div.wysiwyg ul.toolbar li {
@@ -443,7 +444,6 @@ div.wysiwyg ul.toolbar li {
 
 body.wysiwyg {
     color: #fff;
-    background: #3a3830; /* Old browsers */
     font-size: 12px;
 }
 
