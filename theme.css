@@ -630,7 +630,11 @@ form input[type=submit],
 
 
 
-.game-content th {
+.game-content table.three-column-stats th {
     width: 20%;
+    text-align: center;
+}
+
+.game-content table.math-table thead th {
     text-align: center;
 }
