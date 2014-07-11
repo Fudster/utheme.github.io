@@ -94,25 +94,23 @@ a.highlighted { color: #E68910; }
 .bad { color: #ff0000; }
 
 .message {
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 20px;
+    font-size: 14px;
+    line-height: 14px;
     border: 1px solid;
-    font-size: 20px;
 }
 
 .good.message
 {
-    color: #fefff7;
-    border-color: #feffea;
-    background: #718d16;
+    color: #ffffff;
+    border-color: #000000;
+    background: #88dd88;
 }
 
 .bad.message
 {
-    color: #FFFCF7;
-    border-color: #feffea;
-    background: #521802;
+    color: #ffffff;
+    border-color: #000000;
+    background: #dd8888;
 }
 
 .info.message
