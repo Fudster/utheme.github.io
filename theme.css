@@ -101,16 +101,16 @@ a.highlighted { color: #E68910; }
 
 .good.message
 {
-    color: #ffffff;
+    color: #000000;
     border-color: #000000;
-    background: #88dd88;
+    background: #aaddaa;
 }
 
 .bad.message
 {
-    color: #ffffff;
+    color: #000000;
     border-color: #000000;
-    background: #dd8888;
+    background: #ddaaaa;
 }
 
 .info.message
