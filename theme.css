@@ -637,22 +637,3 @@ form input[type=submit],
 .game-content table.mail-view tr th {
     background: #dddddd;
 }
-
-
-
-
-
-selector, div.selector, div.selector span,
-div.checker span, div.radio span, div.uploader,
-div.uploader span.action, div.button, div.button span {
-
-    background-image: url('');
-    border: 1px solid #000000;
-}
-
-
-select {
-border: 1px solid #000000; 
-position: static;
-background: #8888ff;
-}
