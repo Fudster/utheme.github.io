@@ -651,3 +651,8 @@ div.uploader span.action, div.button, div.button span {
 
 }
 
+
+select {
+position: static;
+background: #8888ff;
+}
