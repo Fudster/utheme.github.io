@@ -633,12 +633,12 @@ td.news-incident-type { background-repeat: no-repeat; text-align: center; width:
 td.news-incident-report { text-align: left; }
 
 
-.news-legend span.news-aid:before                         { content: url('http://s7.postimg.org/ri13zso3r/aid.gif' }
-.news-legend span.news-intra-kingdom-conflict:before      { content: url('http://s7.postimg.org/c1njpijgn/local.gif' }
+.news-legend span.news-aid:before                         { content: url('http://s7.postimg.org/ri13zso3r/aid.gif'); }
+.news-legend span.news-intra-kingdom-conflict:before      { content: url('http://s7.postimg.org/c1njpijgn/local.gif'); }
 .news-legend span.news-actions-against-our-kingdom:before { content: url('http://s7.postimg.org/xa186xxxj/defend.gif'); }
 .news-legend span.news-actions-by-our-kingdom:before      { content: url('http://s7.postimg.org/bxtq99dzb/attack.gif'); }
 .news-legend span.news-dragon:before                      { content: url('http://s7.postimg.org/qv27a9r7r/dragon.gif'); }
-.news-legend span.news-obituaries:before                  { content: url('http://s7.postimg.org/ixcdmd3bb/skull.gif' }
+.news-legend span.news-obituaries:before                  { content: url('http://s7.postimg.org/ixcdmd3bb/skull.gif'); }
 .news-legend span.news-relations:before                   { content: url('http://s7.postimg.org/fcgi34yrr/status.gif'); }
-.news-province-modification:before                        { content: url('http://s7.postimg.org/md4hvx0jr/prov.gif'  }
+.news-province-modification:before                        { content: url('http://s7.postimg.org/md4hvx0jr/prov.gif'); }
 
