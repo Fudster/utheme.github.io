@@ -172,25 +172,6 @@ a.highlighted { color: #E68910; }
 
 
 
-
-.news-legend span.news-aid:before { content: url(./images/kingdom_news/aid_inline.png); }
-.news-legend span.news-intra-kingdom-conflict:before { content: url(./images/kingdom_news/intra_kingdom_conflict_inline.png); }
-.news-legend span.news-actions-against-our-kingdom:before { content: url(./images/kingdom_news/actions_against_our_kingdom_inline.png); }
-.news-legend span.news-actions-by-our-kingdom:before { content: url(./images/kingdom_news/actions_by_our_kingdom_inline.png); }
-.news-legend span.news-dragon:before { content: url(./images/kingdom_news/dragon_inline.png); }
-.news-legend span.news-obituaries:before { content: url(./images/kingdom_news/obituaries_inline.png); }
-.news-legend span.news-relations:before { content: url(./images/kingdom_news/relations_inline.png); }
-.news-province-modification:before { content: url(./images/kingdom_news/province_modification_inline.png); }
-
-td.news-aid { background-image: url(./images/kingdom_news/aid.png); }
-td.news-intra-kingdom-conflict { background-image: url(./images/kingdom_news/intra_kingdom_conflict.png); }
-td.news-actions-against-our-kingdom { background-image: url(./images/kingdom_news/actions_against_our_kingdom.png); }
-td.news-actions-by-our-kingdom { background-image: url(./images/kingdom_news/actions_by_our_kingdom.png); }
-td.news-dragon { background-image: url(./images/kingdom_news/dragon.png); }
-td.news-obituaries { background-image: url(./images/kingdom_news/obituaries.png); }
-td.news-relations { background-image: url(./images/kingdom_news/relations.png); }
-td.news-province-modification { background-image: url(./images/kingdom_news/province_modification.png); }
-
 /* KINGDOM DETAILS */
 .unused-slot { color: #B0B0B0; }
 .protected,
@@ -650,3 +631,14 @@ td.news-province-modification       { background-image: url('http://s7.postimg.o
 td.news-incident-type { background-repeat: no-repeat; text-align: center; width: 25px; height: 25px; vertical-align: top; background-position: 0px 0px; }
 .news-incident-date { width: 130px; }
 td.news-incident-report { text-align: left; }
+
+
+.news-legend span.news-aid:before                         { content: url('http://s7.postimg.org/ri13zso3r/aid.gif' }
+.news-legend span.news-intra-kingdom-conflict:before      { content: url('http://s7.postimg.org/c1njpijgn/local.gif' }
+.news-legend span.news-actions-against-our-kingdom:before { content: url('http://s7.postimg.org/xa186xxxj/defend.gif'); }
+.news-legend span.news-actions-by-our-kingdom:before      { content: url('http://s7.postimg.org/bxtq99dzb/attack.gif'); }
+.news-legend span.news-dragon:before                      { content: url('http://s7.postimg.org/qv27a9r7r/dragon.gif'); }
+.news-legend span.news-obituaries:before                  { content: url('http://s7.postimg.org/ixcdmd3bb/skull.gif' }
+.news-legend span.news-relations:before                   { content: url('http://s7.postimg.org/fcgi34yrr/status.gif'); }
+.news-province-modification:before                        { content: url('http://s7.postimg.org/md4hvx0jr/prov.gif'  }
+
