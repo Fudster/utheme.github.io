@@ -642,14 +642,11 @@ form input[type=submit],
 
 
 
-selector, div.selector span,
+selector, div.selector, div.selector span,
 div.checker span, div.radio span, div.uploader,
 div.uploader span.action, div.button, div.button span {
 
     background-image: url('');
-    background-repeat: no-repeat;
-    border: 1px solid #000000; 
-
 }
 
 
