@@ -637,3 +637,16 @@ form input[type=submit],
 .game-content table.mail-view tr th {
     background: #dddddd;
 }
+
+
+td.news-actions-by-our-kingdom      { background-image: url('http://s7.postimg.org/bxtq99dzb/attack.gif'); }
+td.news-actions-against-our-kingdom { background-image: url('http://s7.postimg.org/xa186xxxj/defend.gif'); }
+td.news-relations                   { background-image: url('http://s7.postimg.org/fcgi34yrr/status.gif'); }
+td.news-aid                         { background-image: url('http://s7.postimg.org/ri13zso3r/aid.gif' ); }
+td.news-dragon                      { background-image: url('http://s7.postimg.org/qv27a9r7r/dragon.gif'); }
+td.news-intra-kingdom-conflict      { background-image: url('http://s7.postimg.org/c1njpijgn/local.gif' ); }
+td.news-obituaries                  { background-image: url('http://s7.postimg.org/ixcdmd3bb/skull.gif' ); }
+td.news-province-modification       { background-image: url('http://s7.postimg.org/md4hvx0jr/prov.gif'  ); }
+td.news-incident-type { background-repeat: no-repeat; text-align: center; width: 25px; height: 25px; vertical-align: top; background-position: 0px 0px; }
+.news-incident-date { width: 130px; }
+td.news-incident-report { text-align: left; }
